@@ -1,12 +1,12 @@
-# TheGreekClawd — A One-Man AI Department
+# TheGreekClawd — One Man...7 brains..
 
 *Built by [@FotiosM](https://x.com/FotiosM) · Art at [fotifoti.art](https://www.instagram.com/fotifoti.art/)*
 
 ---
 
-I'm a Greek-American developer running four businesses simultaneously as a one-man operation out of Lawrence, Massachusetts. I have no team. I have no funding. What I have is an obsessive drive to build, a background in political organizing and community work, and now — a digital employee.
+I'm a Greek-American developer building four businesses simultaneously as a 7 brain operation out of Massachusetts. I have a bloodless team and we all share the same obsessive drive to build.
 
-This repo documents **TheGreekClawd (TGC)** — my first autonomous AI intelligence system, built on the [OpenClaw](https://openclaw.ai) framework. It is not a demo. It is not a side project. It is operational infrastructure that I depend on daily.
+This repo documents **TheGreekClawd (TGC)** — my first Digital Employee, built on the [OpenClaw](https://openclaw.ai) framework. It is not a demo. It is not a side project. It is operational infrastructure that I am building to depend on.
 
 ---
 
@@ -119,11 +119,9 @@ After optimization: **~$1.00–1.50 per run**. The target is browser-equivalent 
 
 ## The Honest Part
 
-I'm building this with limited finances and maximum obsession. Every design decision has to be right the first time because I don't have the runway to redo it. The LLMs — Claude, primarily — are my engineering partners. I narrate the architecture. They help me build it. I review everything before it ships.
+I'm building this with maximum obsession. 
 
-I'm not looking for validation. I'm looking for the right room.
-
-If you're building on OpenClaw, working on autonomous agent systems, or just curious what a one-man AI department looks like in practice — I want to talk.
+If you're building on OpenClaw, working on autonomous agent systems, or just curious - let's talk shop.
 
 **[@FotiosM on X](https://x.com/FotiosM)**
 **[fotifoti.art on Instagram](https://www.instagram.com/fotifoti.art/)**
